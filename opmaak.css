@@ -19,6 +19,6 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #111111;
-  color: rgb(238, 75, 243); 
+  background-color: white;
+  color: #333333; 
 }
