@@ -6,9 +6,8 @@ ul {
     background-color: khaki;
 }
 
-ul li {
-    float: left;
-}
+
+
 
 ul li a {
     display: block;
