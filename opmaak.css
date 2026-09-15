@@ -7,7 +7,7 @@ ul {
 }
 
 ul li {
-  float: left
+  float: left    
 }
 
 ul li a {
@@ -18,7 +18,7 @@ ul li a {
   text-decoration: none;
 }
 
-ul li a:hover {
+ul li a:hover { 
   background-color: white;
   color: #333333; 
 }
