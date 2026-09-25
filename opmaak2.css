@@ -8,7 +8,7 @@ ul {                      /*geeft aan hoe de list er uit moet zien als er niks g
   margin: 0; 
   padding: 0;  
   overflow: hidden;
-  background-color: rgb(38, 38, 38);
+  background-color: rgb(38, 38, 38); /* de achtergrond keur voor de navbar denk ik*/
 }
 
 li {                  /* geeft aan hoe de tekst zit hier is het aan de linker kant*/
