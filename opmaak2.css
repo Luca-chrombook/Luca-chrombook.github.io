@@ -17,14 +17,14 @@ li {                  /* geeft aan hoe de tekst zit hier is het aan de linker ka
 
 li a, .dropbtn {
   display: inline-block;
-  color: white;
+  color: white; /*kleur van de tekst voor als je er over hoverd*/
   text-align: left;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: red;
+  background-color: whitesmoke;
 }
 
 li.dropdown{
