@@ -3,15 +3,15 @@ body {
   padding: 0;
 }
 
-ul { 
+ul {                      /*geeft aan hoe de list er uit moet zien als er niks gebeurd*/
   list-style-type: none;
   margin: 0; 
-  padding: 0; 
+  padding: 0;  
   overflow: hidden;
   background-color: black;
 }
 
-li {
+li {                  /* geeft aan 5*/
   float: left;
  }
 
