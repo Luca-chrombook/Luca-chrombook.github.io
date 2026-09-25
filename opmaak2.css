@@ -8,10 +8,10 @@ ul {                      /*geeft aan hoe de list er uit moet zien als er niks g
   margin: 0; 
   padding: 0;  
   overflow: hidden;
-  background-color: black;
+  background-color: rgb(38, 38, 38);
 }
 
-li {                  /* geeft aan 5*/
+li {                  /* geeft aan hoe de tekst zit hier is het aan de linker kant*/
   float: left;
  }
 
