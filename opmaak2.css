@@ -52,7 +52,7 @@ li.dropdown{
 
 .dropdown-content a:hover { /*de kleur van het element als je er overheen gaat*/
   background-color: #f1f1f1;
-  color: hotpink;
+  color: greenyellow;
 } 
 
 .dropdown:hover .dropdown-content {
