@@ -17,14 +17,14 @@ li {                  /* geeft aan hoe de tekst zit hier is het aan de linker ka
 
 li a, .dropbtn {
   display: inline-block;
-  color: white; /*kleur van de tekst voor als je er over hoverd*/
+  color: #333333; /*kleur van de tekst voor als je er over hoverd*/
   text-align: left;
   padding: 14px 16px;
   text-decoration: none;
 }
 
 li a:hover, .dropdown:hover .dropbtn {
-  background-color: whitesmoke;
+  background-color: #f9f9f9;
 }
 
 li.dropdown{
@@ -40,7 +40,7 @@ li.dropdown{
   z-index: 1;
 }
 
-.dropdown-content a {
+.dropdown-content a { /* geeft aan hoe de links in de dropdown er uit moeten zien*/
   color:black;
   padding:12px 16px;
   text-decoration: none;
@@ -48,7 +48,10 @@ li.dropdown{
   text-align: left; 
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1;}
+.dropdown-content a:hover { /*de kleur van het element als je er overheen gaat*/
+  background-color: #f1f1f1;
+  color: hotpink;
+} 
 
 .dropdown:hover .dropdown-content {
   display: block; 
