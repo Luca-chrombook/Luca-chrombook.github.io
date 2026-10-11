@@ -58,3 +58,8 @@ li.dropdown{
 .dropdown:hover .dropdown-content {
   display: block; 
 }
+
+iframe { /* voor de binairy bonanza*/
+  float: right;
+  width: 50%;
+}
