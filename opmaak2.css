@@ -61,5 +61,6 @@ li.dropdown{
 
 iframe { /* voor de binairy bonanza*/
   float: right;
-  width: 50%;
+  width:"700";
+   height:"500"; 
 }
