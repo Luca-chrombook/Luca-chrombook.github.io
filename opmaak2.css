@@ -1,4 +1,4 @@
-body {
+body { /*dit betekent denk ik dat er niks veranderd aam de opmaak van de body*/
   margin: 0;
   padding: 0;
 }
@@ -24,7 +24,7 @@ li a, .dropbtn {
   text-decoration: none;
 }
 
-li a:hover, .dropdown:hover .dropbtn {
+li a:hover, .dropdown:hover .dropbtn { /*de kleur als je over het basis menu hoverd met de muis*/
   background-color: #f9f9f9;
   color: #333333;
 }
@@ -33,7 +33,7 @@ li.dropdown{
   display: inline-block;
 }
 
-.dropdown-content {
+.dropdown-content { /*hoe de dropdown content er uitziet*/
   display: none;
   position: absolute;
   background-color: #f9f9f9;
@@ -59,7 +59,7 @@ li.dropdown{
   display: block; 
 }
 
-iframe { /* voor de binary bonanza*/
+iframe { /* voor de binary bonanza dit zorgd er denk ik voor dat hij aan de rechter kant staat*/
   float: right;
   width:"700";
   height:"500"; 
