@@ -59,3 +59,8 @@ li.dropdown{
   display: block; 
 }
 
+iframe { /* voor de binairy bonanza*/
+  float: right;
+  width:"700";
+  height:"500"; 
+}
